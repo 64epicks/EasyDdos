@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDdos_Server", "EasyDdos_Server\EasyDdos_Server.csproj", "{01375B23-6D7F-43F5-8EE9-57774EA88216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01375B23-6D7F-43F5-8EE9-57774EA88216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01375B23-6D7F-43F5-8EE9-57774EA88216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01375B23-6D7F-43F5-8EE9-57774EA88216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01375B23-6D7F-43F5-8EE9-57774EA88216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B942DEBB-1B1B-4D4F-B42A-AFFBAFEDCDC2}
+	EndGlobalSection
+EndGlobal
